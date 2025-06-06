@@ -4,7 +4,7 @@ shows = [
     "all   lowercase   letters   ",
     "with   extraaaaaaaa   ",
     "blank   spaces   between   the   words.   it   ",
-    "is   often   used   for   formatting   ",
+    "is   often   used   for   formatting ssssssssssss  ",
     "exercises,   testing   text   inputs,   or   ",
     "simply   to   illustrate   ",
     "style   changes2."
