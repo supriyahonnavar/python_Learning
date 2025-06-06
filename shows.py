@@ -1,13 +1,13 @@
 shows = [
-    "this   is   an   example   ",
+    "this   is   an   example 1  ",
     "of   a   paragraph   written   in   ",
     "all   lowercase   letters   ",
-    "with   extra   ",
+    "with   extraaaaaaaa   ",
     "blank   spaces   between   the   words.   it   ",
     "is   often   used   for   formatting   ",
     "exercises,   testing   text   inputs,   or   ",
     "simply   to   illustrate   ",
-    "style   changes."
+    "style   changes2."
 ]
 
 def main():
