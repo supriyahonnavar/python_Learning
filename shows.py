@@ -1,5 +1,5 @@
 shows = [
-    "this   is   an   example 1 323232323131231231313 ",
+    "this   is   an   example rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr ",
     "of   a   paragraph   written   in   ",
     "all   lowercase   letters   ",
     "with   extraaaaaaaa   ",
