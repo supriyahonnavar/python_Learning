@@ -1,10 +1,10 @@
 shows = [
-    "this   is   an   example bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb ",
+    "this   is   an   example ",
     "of   a   paragraph   written   in   ",
     "all   lowercase   letters   ",
     "with   extraaaaaaaa   ",
     "blank   spaces   between   the   words.   it   ",
-    "is   often   used   for   formatting ssssssssssss  ",
+    "is   often   used   for   formatting  ",
     "exercises,   testing   text   inputs,   or   ",
     "simply   to   illustrate   ",
     "style   changes2."
